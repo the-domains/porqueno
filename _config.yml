@@ -1,7 +1,7 @@
 name: porqueno
 favicon: null
-layout_spectrum: 0.49100339226424694
-typography_spectrum: 0.16156600462272763
+layout_spectrum: 0.24898
+typography_spectrum: 0.24262
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.32385659753344953
+    - '#e0eaec'
+    - '#f2b7c9'
+    - '#b26174'
+    - '#ba1d2f'
+    - '#496361'
+  brandStrength: 0.75
   lightness: 0.8024915282148868
-  saturation: 0.9943522005341947
-  rhythmicContrast: 0.78009541798383
+  saturation: 0.875
+  rhythmicContrast: 0.75
 purpose: []
