@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[¿Por Que No?]]></title>
         <description><![CDATA[¿Por Que No?]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/porqueno/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 10:12:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Feb 2016 10:23:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/porqueno/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0dd72cb0-f1a9-435c-a9f0-ef9ea17fe8da.jpg">]]></description>
-            <link>undefineda4815be2-cabc-4806-af1a-7becd2f76e89/index.html</link>
+            <link>https://thegrid.ai/porqueno/a4815be2-cabc-4806-af1a-7becd2f76e89/index.html</link>
             <guid isPermaLink="false">a4815be2-cabc-4806-af1a-7becd2f76e89</guid>
-            <pubDate>Tue, 02 Feb 2016 10:11:48 GMT</pubDate>
+            <pubDate>Tue, 02 Feb 2016 10:23:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
